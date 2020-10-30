@@ -1,0 +1,12 @@
+h1 {
+    font-family: Bookman Old Style, serif;
+}
+
+#introductie {
+    font-family: Arial, serif;
+}
+iframe{
+    position: absolute;
+    left: 1700px;
+    top: 10px;
+}
